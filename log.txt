@@ -1,0 +1,297 @@
+17/08/2018, 09:03:09node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:03:09node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:03:11node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:03:11node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:03:14node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:03:14node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:03:26node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:03:26node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:03:28node: 2ee40fe4.eae37
+roomba/commands : msg.payload : string[5]
+"start"
+17/08/2018, 09:03:28node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[8]
+"Cleaning"
+17/08/2018, 09:03:31node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:03:31node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:03:32node: 2ee40fe4.eae37
+roomba/commands : msg.payload : string[4]
+"stop"
+17/08/2018, 09:03:32node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[9]
+"Returning"
+17/08/2018, 09:03:33node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:03:34node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:03:36node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:03:36node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:03:38node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:03:38node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:03:42node: 2ee40fe4.eae37
+roomba/commands : msg.payload : string[5]
+"start"
+17/08/2018, 09:03:42node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[8]
+"Cleaning"
+17/08/2018, 09:03:43node: 2ee40fe4.eae37
+roomba/battery : msg.payload : string[3]
+"100"
+17/08/2018, 09:03:43node: 2ee40fe4.eae37
+roomba/charging : msg.payload : string[1]
+"4"
+17/08/2018, 09:03:44node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:03:44node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:03:46node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:03:46node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:03:49node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:03:49node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:03:52node: 2ee40fe4.eae37
+roomba/commands : msg.payload : string[4]
+"stop"
+17/08/2018, 09:03:52node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[9]
+"Returning"
+17/08/2018, 09:03:55node: 2ee40fe4.eae37
+roomba/battery : msg.payload : string[3]
+"100"
+17/08/2018, 09:03:55node: 2ee40fe4.eae37
+roomba/charging : msg.payload : string[1]
+"4"
+17/08/2018, 09:03:59node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:03:59node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:04:02node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:04:02node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:04:03node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:04:03node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:04:08node: 2ee40fe4.eae37
+roomba/battery : msg.payload : string[3]
+"100"
+17/08/2018, 09:04:08node: 2ee40fe4.eae37
+roomba/charging : msg.payload : string[1]
+"4"
+17/08/2018, 09:04:15node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:04:15node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:04:21node: 2ee40fe4.eae37
+roomba/battery : msg.payload : string[7]
+"NO DATA"
+17/08/2018, 09:04:21node: 2ee40fe4.eae37
+roomba/charging : msg.payload : string[1]
+"0"
+17/08/2018, 09:04:25node: 2ee40fe4.eae37
+roomba/battery : msg.payload : string[2]
+"83"
+17/08/2018, 09:04:25node: 2ee40fe4.eae37
+roomba/charging : msg.payload : string[1]
+"4"
+17/08/2018, 09:04:33node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:04:34node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:04:47node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:04:47node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:04:52node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:04:52node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:04:54node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:04:54node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:04:55node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:04:55node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:05:01node: 2ee40fe4.eae37
+roomba/battery : msg.payload : string[7]
+"NO DATA"
+17/08/2018, 09:05:01node: 2ee40fe4.eae37
+roomba/charging : msg.payload : string[1]
+"0"
+17/08/2018, 09:05:06node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:05:06node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:05:09node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:05:09node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:05:10node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:05:10node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:05:14node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:05:15node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:05:19node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:05:19node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:05:20node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:05:20node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:05:21node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:05:21node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:05:26node: 2ee40fe4.eae37
+roomba/battery : msg.payload : string[7]
+"NO DATA"
+17/08/2018, 09:05:26node: 2ee40fe4.eae37
+roomba/charging : msg.payload : string[1]
+"0"
+17/08/2018, 09:05:29node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:05:29node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:05:33node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:05:33node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:05:38node: 2ee40fe4.eae37
+roomba/battery : msg.payload : string[7]
+"NO DATA"
+17/08/2018, 09:05:38node: 2ee40fe4.eae37
+roomba/charging : msg.payload : string[1]
+"0"
+17/08/2018, 09:05:43node: 2ee40fe4.eae37
+roomba/battery : msg.payload : string[7]
+"NO DATA"
+17/08/2018, 09:05:43node: 2ee40fe4.eae37
+roomba/charging : msg.payload : string[1]
+"0"
+17/08/2018, 09:05:46node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:05:46node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:05:47node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:05:48node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:05:53node: 2ee40fe4.eae37
+roomba/battery : msg.payload : string[7]
+"NO DATA"
+17/08/2018, 09:05:54node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:05:54node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:05:58node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:05:58node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:06:00node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:06:00node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:06:01node: 2ee40fe4.eae37
+roomba/status : msg.payload : string[14]
+"Dead Somewhere"
+17/08/2018, 09:06:01node: 2ee40fe4.eae37
+checkIn/roomba : msg.payload : string[8]
+"Rebooted"
+17/08/2018, 09:06:07node: 2ee40fe4.eae37
+roomba/battery : msg.payload : string[7]
+"NO DATA"
+17/08/2018, 09:06:07node: 2ee40fe4.eae37
+roomba/charging : msg.payload : string[1]
+"0"
